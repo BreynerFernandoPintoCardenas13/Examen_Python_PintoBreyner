@@ -73,5 +73,21 @@
             "Total sumado": 2255000.0,
             "Tipo de impuesto": 45000.0
         }
+    ],
+    "333333.0": [
+        {
+            "valor ingresado": 333333.0,
+            "Iva": 16666.65,
+            "Total sumado": 349999.65,
+            "Tipo de impuesto": 5
+        }
+    ],
+    "300000.0": [
+        {
+            "valor ingresado": 300000.0,
+            "Impuesto Local": 8,
+            "Total sumado": 324000.0,
+            "tipo de impuesto": 8
+        }
     ]
 }

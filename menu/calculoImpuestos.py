@@ -58,6 +58,7 @@ def menuCalculoImpuestos():
                 elif desicion == 2:
                     from main import principal
                     principal()
+                    break
                 
             case 1:
                 from logica.iva import precioIva
@@ -70,6 +71,7 @@ def menuCalculoImpuestos():
                 elif desicion == 2:
                     from main import principal
                     principal()
+                    break
 
             case 2:
                 from logica.impuestoEspecial import impuestoEspecial
@@ -87,6 +89,7 @@ def menuCalculoImpuestos():
                 elif desicion == 2:
                     from main import principal
                     principal()
+                    break
 
             case 3:
                 from logica.impuestoLocal import impuestoLocal
@@ -104,3 +107,4 @@ def menuCalculoImpuestos():
                 elif desicion == 2:
                     from main import principal
                     principal()
+                    break
