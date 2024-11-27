@@ -1,0 +1,52 @@
+{
+    "1": [
+        {
+            "valor ingresado": 60000.0,
+            "Iva": 3000.0,
+            "Total sumado": 63000.0
+        }
+    ],
+    "2": [
+        {
+            "valor ingresado": 45666.0,
+            "Impuesto ingresado": 25.0,
+            "Total sumado": 57082.5
+        }
+    ],
+    "46000.0": [
+        {
+            "valor ingresado": 46000.0,
+            "Iva": 3680.0,
+            "Total sumado": 49680.0
+        }
+    ],
+    "34600.0": [
+        {
+            "valor ingresado": 34600.0,
+            "Iva": 3460.0,
+            "Total sumado": 38060.0
+        }
+    ],
+    "34000.0": [
+        {
+            "valor ingresado": 34000.0,
+            "Impuesto ingresado": 34.0,
+            "Total sumado": 45560.0
+        }
+    ],
+    "90000.0": [
+        {
+            "valor ingresado": 90000.0,
+            "Iva": 9000.0,
+            "Total sumado": 99000.0
+        }
+    ],
+    "232323.0": [
+        {
+            "valor ingresado": 232323.0,
+            "Impuesto ingresado": 2.0,
+            "valor del impuesto": 4646.46,
+            "Total sumado": 236969.46
+        }
+    ]
+}
