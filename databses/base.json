@@ -30,8 +30,9 @@
     "34000.0": [
         {
             "valor ingresado": 34000.0,
-            "Impuesto ingresado": 34.0,
-            "Total sumado": 45560.0
+            "Iva": 3400.0,
+            "Total sumado": 37400.0,
+            "tipo de impuesto": 10
         }
     ],
     "90000.0": [
@@ -47,6 +48,30 @@
             "Impuesto ingresado": 2.0,
             "valor del impuesto": 4646.46,
             "Total sumado": 236969.46
+        }
+    ],
+    "3444.0": [
+        {
+            "valor ingresado": 3444.0,
+            "Iva": 344.4,
+            "Total sumado": 3788.4,
+            "tipo de impuesto": 10
+        }
+    ],
+    "12000.0": [
+        {
+            "valor ingresado": 12000.0,
+            "Iva": 1200.0,
+            "Total sumado": 13200.0,
+            "tipo de impuesto": 10
+        }
+    ],
+    "5000.0": [
+        {
+            "valor ingresado": 5000.0,
+            "valor del impuesto": 2250000.0,
+            "Total sumado": 2255000.0,
+            "Tipo de impuesto": 45000.0
         }
     ]
 }

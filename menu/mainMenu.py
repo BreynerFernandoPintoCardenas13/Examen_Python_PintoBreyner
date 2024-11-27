@@ -20,3 +20,10 @@ def menuPrincipal():
             case 1:
                 from menu.calculoImpuestos import menuCalculoImpuestos
                 menuCalculoImpuestos()
+            case 2:
+                from menu.lista import lista
+                lista()
+            case 3:
+                from menu.bye import bye
+                bye()
+                break
