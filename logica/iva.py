@@ -34,4 +34,16 @@ def precioIva(formato, valor):
     Total con impuestos: ${resultado}
 
 """)
+    print("""
+                ¿Desea agregar otro impuesto?
+    1. Sí
+    2. No (Regresa al menú principal)
+    ---------------------------------------------------
+""")
+    desicion=int(input("""cual impuesto?
+                       
+                       
+                       
+                       
+    """))
     return formato, resultado
